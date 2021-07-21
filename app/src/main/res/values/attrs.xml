@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="snippets">
+        <attr name="fragmentBg" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="android:statusBarColor" format="color" />
+        <attr name="nothing" format="color" />
+        <attr name="cardColor" format="color"/>
+        <attr name="toolbarColor" format="color"/>
+    </declare-styleable>
+</resources>
